@@ -9,9 +9,15 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>aryansharma202</groupId>
+<<<<<<< HEAD
 	<artifactId>assignment1-microservice</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>assignment1-microservice</name>
+=======
+	<artifactId>assignment1-microservice-part2-world</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+	<name>assignment1-microservice-part2-world</name>
+>>>>>>> 3ec280184d99f32383813097eb0e6217354e582b
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
